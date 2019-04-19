@@ -1,0 +1,125 @@
+Category 0 - Black Rating exceeds White by 500 points or more
+              Result
+Black Win  92.908530
+White Win   5.806783
+Draw        1.284687
+
+Category 1 - Black Rating exceeds White by 450 to 500 points
+              Result
+Black Win  87.122208
+White Win  11.432326
+Draw        1.445466
+
+Category 2 - Black Rating exceeds White by 400 to 450 points
+              Result
+Black Win  85.257732
+White Win  12.577320
+Draw        2.164948
+
+Category 3 - Black Rating exceeds White by 350 to 400 points
+              Result
+Black Win  80.177112
+White Win  17.370572
+Draw        2.452316
+
+Category 4 - Black Rating exceeds White by 300 to 350 points
+              Result
+Black Win  76.973995
+White Win  20.094563
+Draw        2.931442
+
+Category 5 - Black Rating exceeds White by 250 to 300 points
+              Result
+Black Win  70.593900
+White Win  26.035313
+Draw        3.370787
+
+Category 6 - Black Rating exceeds White by 200 to 250 points
+              Result
+Black Win  66.365385
+White Win  29.442308
+Draw        4.192308
+
+Category 7 - Black Rating exceeds White by 150 to 200 points
+              Result
+Black Win  60.984525
+White Win  34.945778
+Draw        4.069697
+
+Category 8 - Black Rating exceeds White by 100 to 150 points
+              Result
+Black Win  55.488551
+White Win  40.185282
+Draw        4.326167
+
+Category 9 - Black Rating exceeds White by 50 to 100 points
+              Result
+Black Win  48.477328
+White Win  47.658975
+Draw        3.863697
+
+Category 10 - Black Rating exceeds White by 0 to 50 points
+              Result
+White Win  51.652607
+Black Win  44.157101
+Draw        4.190292
+
+Category 11 - White Rating exceeds Black by 0 to 50 points
+              Result
+White Win  58.236145
+Black Win  37.805397
+Draw        3.958457
+
+Category 12 - White Rating exceeds Black by 50 to 100 points
+              Result
+White Win  63.351818
+Black Win  32.865065
+Draw        3.783118
+
+Category 13 - White Rating exceeds Black by 100 to 150 points
+              Result
+White Win  68.764479
+Black Win  27.162162
+Draw        4.073359
+
+Category 14 - White Rating exceeds Black by 150 to 200 points
+              Result
+White Win  74.468085
+Black Win  21.985816
+Draw        3.546099
+
+Category 15 - White Rating exceeds Black by 200 to 250 points
+              Result
+White Win  80.379454
+Black Win  16.658954
+Draw        2.961592
+
+Category 16 - White Rating exceeds Black by 250 to 300 points
+              Result
+White Win  81.228899
+Black Win  16.205267
+Draw        2.565834
+
+Category 17 - White Rating exceeds Black by 300 to 350 points
+              Result
+White Win  85.897436
+Black Win  11.431624
+Draw        2.670940
+
+Category 18 - White Rating exceeds Black by 350 to 400 points
+              Result
+White Win  88.304862
+Black Win   9.592641
+Draw        2.102497
+
+Category 19 - White Rating exceeds Black by 400 to 450 points
+              Result
+White Win  92.803030
+Black Win   6.060606
+Draw        1.136364
+
+Category 20 - White Rating exceeds Black by 500 points or more
+              Result
+White Win  94.695341
+Black Win   4.086022
+Draw        1.218638
